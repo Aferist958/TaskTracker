@@ -11,7 +11,7 @@ TaskTracker
 
 1. Клонируем репозиторий
     ```
-   git clone https://gitlab.com/16791647/tasktracker.git
+   git clone https://github.com/Aferist958/TaskTracker.git
    ```
 2. Сборка
     ```
