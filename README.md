@@ -15,7 +15,8 @@ TaskTracker
    ```
 2. Сборка
     ```
-   mvn package
+    cd .\tasktracker\ 
+    mvn package -DskipTests
    ```
 3. Запуск
     Для запуска должен быть включён Docker Desktop
